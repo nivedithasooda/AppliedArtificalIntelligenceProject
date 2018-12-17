@@ -15,7 +15,9 @@ The goal of this algorithm is to find the best fitting model by choosing the par
 Libraries:
 
 Scikit learn for using the Logistic Regression algorithm
+
 pandas for reading the training and testing data files to analyse the dataset
+
 
 Tools:
 Built using Jupiter Notebook which helps to define code as well as mention comments in the file itself.
