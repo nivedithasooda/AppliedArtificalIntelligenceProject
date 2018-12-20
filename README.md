@@ -1,4 +1,4 @@
-# Applied Artificial Intelligence Project
+# Applied Artificial Intelligence Project-Logistic Regression algorithm on Titanic dataset
 Implemented Logistic Regression algorithm on Titanic dataset for predicting the survivors based on various features.
 
 Dataset used:  Titanic dataset for passenger survival prediction
